@@ -1,0 +1,26 @@
+.item {
+  margin-bottom: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  background-color: olive;
+}
+.item img {
+  max-width: 100px;
+  max-height: 100px;
+}
+
+.heart1 {
+  cursor: pointer;
+}
+.heart2 {
+  cursor: pointer;
+}
+.heart3 {
+  cursor: pointer;
+}
+.liked {
+  color: red;
+}
+/* .heart1 {
+  cursor: pointer;
+} */
